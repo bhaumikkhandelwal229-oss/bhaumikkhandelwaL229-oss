@@ -15,7 +15,7 @@
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/bhaumik-khandelwal-22050b371/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BH%2BZAtOnRTouXdXnK31YIEA%3D%3D" target="blank">LinkedIn</a> |
 <a href="https://twitter.com/yourhandle" target="blank">Twitter</a>
 </p>
 
