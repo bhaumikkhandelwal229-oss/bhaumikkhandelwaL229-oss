@@ -7,8 +7,9 @@
 - 🔭 I’m currently working on **Testing**
 - 🌱 I’m currently learning **Cyber Security**
 - 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **Web Dev / AI / **
-- 📫 How to reach me: **your@email.com**
+- 💬 Ask me about **Web Dev / AI / Cyber Security**
+- 📫 How to reach me: **bhoumikkhandelwal229@gmail.com
+**
 
 ---
 
@@ -27,11 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
 </p>
@@ -40,7 +36,7 @@
 
 ## 🔥 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaumikkhandelwal229-oss&layout=compact&theme=tokyonight" />
 </p>
 
 ---
