@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Bhaumik Khandelwal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Your Project**
-- 🌱 I’m currently learning **Tech/Skill**
+- 🔭 I’m currently working on **Testing**
+- 🌱 I’m currently learning **Cyber Security**
 - 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **Web Dev / AI / etc**
+- 💬 Ask me about **Web Dev / AI / **
 - 📫 How to reach me: **your@email.com**
 
 ---
