@@ -26,8 +26,6 @@
 </p>
 
 ---
----
----
 
 ## 🧠 Fun Quote
 > "Code. Learn. Build. Repeat."
